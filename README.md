@@ -6,7 +6,7 @@ Feature engineering included extraction of probabilistic racial/ethnic data from
 
 Machine Learning models were trained using these engineered features. Further EDA and statistical investigation of the effects of race/ethnicity is needed. I hope to get that done within the next couple weeks. 
 
-## From my prelimiary EDA of race/ethnicity and it's effect on survival rates:
+### From my prelimiary EDA of race/ethnicity and it's effect on survival rates:
 
 - The majority of passengers appear to have been British. This of course should be expected, as the Titanic set sail from Britain.¶
 - Cultural divides appear to have caused differences even within races. Many people would consider all Europeans to be White, yet there appear to be differences in survival rates within the sub-categories of White Europeans.
