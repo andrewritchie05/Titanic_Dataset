@@ -1,10 +1,12 @@
-# Titanic Dataset: Top 4 percent of ~30,000 competitiors 🥇
+# Titanic Dataset: Top 4% of ~30,000 competitiors 🥇
 
 ### Submission for the Titanic Dataset competition on Kaggle. 
 
-### [At this time, I am limiting project access to friends and potential employers. Click this link if you would like to request access to the Google Drive folder containing it :smile:](https://drive.google.com/file/d/1D44rR_IH60kL4PmiVxaADlzzcBD65fAv/view?usp=sharing)
+### [At this time, I am limiting access for the highest ranking version of the project to friends and potential employers. Click this link if you would like to request access to the Google Drive folder containing it :smile:](https://drive.google.com/file/d/1D44rR_IH60kL4PmiVxaADlzzcBD65fAv/view?usp=sharing)
 
-Feature engineering included extraction of probabilistic racial/ethnic data from passenger names using the ethnicolr library. 
+### Note: as noted above, the code contained in this public repo is an older and lower scoring version of the project.
+
+Feature engineering included extraction of probabilistic racial/ethnic data from passenger names.  
 
 Machine Learning models were trained using these engineered features. Further EDA and statistical investigation of the effects of race/ethnicity is needed. I hope to get that done within the next couple weeks. 
 
