@@ -2,6 +2,8 @@
 
 ### Submission for the Titanic Dataset competition on Kaggle. 
 
+### [At this time, I am limiting project access to friends and potential employers. Click this link if you would like to request access to the Google Drive folder containing it :smile:](https://drive.google.com/file/d/1D44rR_IH60kL4PmiVxaADlzzcBD65fAv/view?usp=sharing)
+
 Feature engineering included extraction of probabilistic racial/ethnic data from passenger names using the ethnicolr library. 
 
 Machine Learning models were trained using these engineered features. Further EDA and statistical investigation of the effects of race/ethnicity is needed. I hope to get that done within the next couple weeks. 
