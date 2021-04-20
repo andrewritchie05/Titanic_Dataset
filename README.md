@@ -1,6 +1,8 @@
 # Titanic Dataset: Top 4% of ~32,000 competitiors 🥇
 
-![alt text](https://github.com/andrewritchie05/Titanic_Dataset/blob/main/titanic_rank.png?raw=true)
+![alt text](https://github.com/andrewritchie05/Titanic_Dataset/blob/main/titanic_rank.PNG?raw=true)
+
+
 
 ### Submission for the Titanic Dataset competition on Kaggle. 
 
