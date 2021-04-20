@@ -6,6 +6,10 @@
 
 ### Note: The code contained in this public repo is an older and lower scoring version of the project.
 
+
+
+### Summary of higest scoring project version:
+
 Feature engineering included extraction of probabilistic racial/ethnic data from passenger names.  
 
 Machine Learning models were trained using these engineered features. Further EDA and statistical investigation of the effects of race/ethnicity is needed. I hope to get that done within the next couple weeks. 
