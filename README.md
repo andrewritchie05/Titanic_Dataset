@@ -4,7 +4,7 @@
 
 ### [At this time, I am limiting access for the highest ranking version of the project to friends and potential employers. Click this link if you would like to request access to the Google Drive folder containing it :smile:](https://drive.google.com/file/d/1D44rR_IH60kL4PmiVxaADlzzcBD65fAv/view?usp=sharing)
 
-### Note: as noted above, the code contained in this public repo is an older and lower scoring version of the project.
+### Note: The code contained in this public repo is an older and lower scoring version of the project.
 
 Feature engineering included extraction of probabilistic racial/ethnic data from passenger names.  
 
