@@ -12,7 +12,7 @@
 
 
 
-### Summary of higest scoring project version:
+### Summary of highest scoring project version:
 
 Feature engineering included extraction of probabilistic racial/ethnic data from passenger names.  
 
