@@ -1,4 +1,4 @@
-# Titanic Dataset: Top 4% of ~32,000 competitiors 🥇
+# Titanic Dataset: Top 4% of ~34,000 competitiors 🥇
 
 ![alt text](https://github.com/andrewritchie05/Titanic_Dataset/blob/main/titanic_rank.PNG?raw=true)
 
